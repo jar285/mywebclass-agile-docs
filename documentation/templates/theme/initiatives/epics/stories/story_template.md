@@ -1,7 +1,15 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
+# User Story #1: Teacher
+## Description:
+"As a teacher, I want to access a library of software engineering and advanced technology content so that I can incorporate the latest trends into my teaching."
 
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
+Acceptance Criteria:
+1. The library must contain up-to-date content on software engineering and advanced technologies
+2. The library must be easily accessible from the homepage of mywebclass.org
+3. The content must be categorized and searchable for easy navigation
+4. The content must be high-quality and suitable for use in educational settings
 
+
+# Example:
 "As a customer, I want to view my order history so that I can track my past purchases."
 
 Acceptance Criteria:
