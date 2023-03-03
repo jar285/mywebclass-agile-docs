@@ -62,4 +62,7 @@ Team:
 
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Curriculum Development](epics/epic_template.md)
+2. [Analytics Implementation](epics/epic_template.md)
+3. [Privacy Compliance](epics/epic_template.md)
+4. [Quality Assurance Epic](epics/epic_template.md)
