@@ -1,4 +1,4 @@
-# "Curriculum Development"
+# Epic 1: "Curriculum Development"
 
 ## Description: 
 The Curriculum Development Epic involves creating a comprehensive curriculum for teaching software engineering and advanced technologies in education.
