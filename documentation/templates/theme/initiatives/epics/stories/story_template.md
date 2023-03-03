@@ -1,6 +1,6 @@
 # User Story #1: Teacher
 ## Description:
-"As a teacher, I want to access a library of software engineering and advanced technology content so that I can incorporate the latest trends into my teaching."
+"As a teacher, I want to access a library of software development and advanced technology content so that I can incorporate the latest trends into my teaching."
 
 Acceptance Criteria:
 1. The library must contain up-to-date content on software engineering and advanced technologies
