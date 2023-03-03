@@ -50,5 +50,16 @@ The order history page can be accessed from the customer account dashboard.
 The order history page is only accessible to authenticated customers.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Stories related to this tasks 
+1. [Conduct need analysis for website content](tasks/task_template.md)
+2. [Develop content outline for the website](tasks/task_template.md)
+3. [Create a visually appealing and user-friendly design for the website](tasks/task_template.md)
+4. [Implement Google Analytics Tracking Code](tasks/task_template.md)
+5. [Develop a GDPR-compliant Privacy Policy for the website](tasks/task_template.md)
+6. [Validate Website Code with W3C Validation Tools](tasks/task_template.md)
+7. [Use Lighthouse performance auditing tool to identify and fix performance and accessibility issues on the website.](tasks/task_template.md)
+8. [Create user accounts and authentication mechanism for users to sign in to the website.](tasks/task_template.md)
+9. [Develop Interactive Features and Tools for Website](tasks/task_template.md)
+10. [Test website functionality](tasks/task_template.md)
+11. [Monitor and analyze website traffic using Google Analytics](tasks/task_template.md)
+
