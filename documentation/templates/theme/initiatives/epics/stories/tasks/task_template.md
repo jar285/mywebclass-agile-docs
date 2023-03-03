@@ -19,4 +19,4 @@ Status:
 1. In progress
 
 Notes: 
-1. The Business Analyst will coordinate with the project team to identify and contact potential users and stakeholders, and schedule and conduct the feedback sessions. The results of the needs analysis will be used to inform the content creation for the website.
+1. The Project Management will coordinate with the project team to identify and contact potential users and stakeholders, and schedule and conduct the feedback sessions. The results of the needs analysis will be used to inform the content creation for the website.
