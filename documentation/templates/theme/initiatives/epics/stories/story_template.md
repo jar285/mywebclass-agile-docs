@@ -18,6 +18,16 @@ Acceptance Criteria:
 3. Feedback must be provided on all completed tasks, including specific areas for improvement
 4. The feedback must be clear and actionable to facilitate skill development
 
+# User Story #3: Website Visitor
+## Description: 
+"As a website visitor, I want mywebclass.org to be fast and responsive so that I can quickly access the content and features."
+
+Acceptance Criteria:
+1. The website must pass W3C validation and Lighthouse performance tests
+2. The website must load quickly on both desktop and mobile devices
+3. All links and features must work correctly and without delay
+4. The website must be easy to navigate, with intuitive menus and clear labeling.
+
 # Example:
 "As a customer, I want to view my order history so that I can track my past purchases."
 
