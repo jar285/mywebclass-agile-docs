@@ -1,15 +1,22 @@
-Task Title: [Short, descriptive title for the task]
+# Task #1 : "Conduct need analysis for website content"
 
-User Story: [Reference the user story that this task supports]
+User Story: 
+1. As a project manager, I want to conduct a needs analysis to identify the specific software development and advanced technology topics to be covered on the website, so that the content is relevant and useful to our target audience.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description:
+1. The task involves conducting a needs analysis by gathering feedback from potential users and stakeholders on the specific software engineering and advanced technology topics they would like to see covered on the website. 
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 
+1. TBA
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: 
+1. jar285
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: 
+1. High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: 
+1. In progress
 
-Notes: [Include]
+Notes: 
+1. The Business Analyst will coordinate with the project team to identify and contact potential users and stakeholders, and schedule and conduct the feedback sessions. The results of the needs analysis will be used to inform the content creation for the website.
