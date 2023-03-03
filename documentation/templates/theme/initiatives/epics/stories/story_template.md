@@ -8,6 +8,15 @@ Acceptance Criteria:
 3. The content must be categorized and searchable for easy navigation
 4. The content must be high-quality and suitable for use in educational settings
 
+# User Story #2: Student
+## Description:
+"As a student, I want to be able to track my progress and receive feedback on my coursework so that I can monitor my performance and improve my skills."
+
+Acceptance Criteria:
+1. A progress tracker must be available for each course or module
+2. The progress tracker must show completed and outstanding tasks
+3. Feedback must be provided on all completed tasks, including specific areas for improvement
+4. The feedback must be clear and actionable to facilitate skill development
 
 # Example:
 "As a customer, I want to view my order history so that I can track my past purchases."
