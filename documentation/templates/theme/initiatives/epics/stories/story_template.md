@@ -28,6 +28,16 @@ Acceptance Criteria:
 3. All links and features must work correctly and without delay
 4. The website must be easy to navigate, with intuitive menus and clear labeling.
 
+# User Story #4: School Administrator
+## Description:
+"As a school administrator, I want to ensure that mywebclass.org complies with GDPR privacy regulations so that the privacy of our students and teachers is protected."
+
+Acceptance Criteria:
+1. A privacy policy must be in place that outlines how user data will be collected, stored, and used
+2. Users must provide consent for data collection and usage
+3. The website must be regularly audited to ensure compliance with GDPR regulations
+4. All user data must be securely stored and protected from unauthorized access
+
 # Example:
 "As a customer, I want to view my order history so that I can track my past purchases."
 
