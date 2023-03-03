@@ -153,4 +153,8 @@ Priority:
 1. High priority, as ensuring website quality is essential to the success of the project.
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [User Story #1: Teacher](stories/story_template.md)
+2. [User Story #2: Student](stories/story_template.md)
+3. [User Story #3: Website Visitor](stories/story_template.md)
+4. [User Story #4: School Administrator](stories/story_template.md)
+5. [User Story #1: Teacher](stories/story_template.md)
